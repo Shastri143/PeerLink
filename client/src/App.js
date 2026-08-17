@@ -6,7 +6,7 @@ import Options from "./Options";
 function App() {
   return (
     <div className="app">
-      <h1>Video Chat</h1>
+      <h1>PeerLink</h1>
 
       <VideoPlayer />
 
